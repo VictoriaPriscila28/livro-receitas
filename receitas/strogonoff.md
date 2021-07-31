@@ -14,8 +14,6 @@
 - 1 copo de creme de leite
 - batata palha a gosto
 
-<iframe style="border: 0px none; vertical-align: bottom;" src="https://bd2ce712525c5aaf7b04b047b8846805.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html" id="google_ads_iframe_/21636860837/TudoGostoso/Content_4" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-google-container-id="a" data-load-complete="true" width="300" height="250" frameborder="0"></iframe>
-
 # modo de preparo
 
 
@@ -27,7 +25,7 @@
 5. Incorpore o creme de leite e retire do fogo antes de ferver.
 6. Sirva com arroz branco e batata palha.
 
-### 
+
 
 
 
