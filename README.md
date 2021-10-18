@@ -1,7 +1,7 @@
 # livro de receitas :woman_cook:
 
-### ola bem vindo ao meu livro de receitas :wave:
+### olá bem vindo ao meu livro de receitas :wave:
 
-- strogonoff
-- pave
+- aqui irei comentar posteriormente receitas que eu amo
+
 
